@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on MERN projects<br>Practicing to work on Three.js <br>Looking for collaborate on MERN and Three.js projects<br>Good at HTML/JS/CSS projects<br>Being an Robotics and IoT enthusiast you can ask me for IoT and Embedded based projects development<br>
+I'm currently working on MERN and AIML projects<br>Practicing to work on Three.js <br>Looking for collaborate on MERN and Three.js projects<br>Good at HTML/JS/CSS projects<br>Being an Robotics and IoT enthusiast you can ask me for IoT and Embedded based projects development<br>
 
 
 ## 🌐 Socials:
